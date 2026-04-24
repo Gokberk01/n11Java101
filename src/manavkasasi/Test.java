@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class Test {
     public static void main(String[] args) {
-        
+
         // Değişkenleri ve sabit fiyatları tanımlıyoruz
         Scanner input = new Scanner(System.in);
         double armutFiyat = 2.14, elmaFiyat = 3.67, domatesFiyat = 1.11, muzFiyat = 0.95, patlicanFiyat = 5.00;

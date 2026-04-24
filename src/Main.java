@@ -3,6 +3,7 @@
 public class Main {
     public static void main(String[] args) {
 
-
+        int not = 67;
+        System.out.println(not > 45 ? "Geçti" : "Kaldı");
     }
 }
