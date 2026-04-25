@@ -5,5 +5,7 @@ public class Main {
 
         int not = 67;
         System.out.println(not > 45 ? "Geçti" : "Kaldı");
+
+        System.out.println("Hello WORLD!!");
     }
 }
